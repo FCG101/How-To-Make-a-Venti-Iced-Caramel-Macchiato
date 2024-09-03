@@ -1,4 +1,4 @@
-# How ToMake a Venti Caramel Machiato
+# How To Make a Venti Iced Caramel Machiato
 
 A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla syrup, and caramel drizzle, it offers sweet and creamy flavor as well as a strong coffee kick. 
 
@@ -9,6 +9,7 @@ A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla 
 - Espresso Shots
 - Vanilla Syrup
 - Caramel Drizzle
+- Ice
 
 ## Equipment:
 - Espresso Machine

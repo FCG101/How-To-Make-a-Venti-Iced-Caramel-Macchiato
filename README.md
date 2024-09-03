@@ -13,15 +13,16 @@ A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla 
 
 ## Equipment:
 - Espresso Machine
-- Steaming Pitcher
 - Shot Glass
+- Ice scooper
 
 
 ## Steps
 
 1. Preparaing the Cup:
 
-   - Drizzle the Caramelsause around the Venti cup and let it slide down the cup. It should look something like the following picture.
+   - Drizzle the Caramel sause around the venti cup and let it slide down the cup. It should look something like the following picture.
+
 
 
    > ![first](CaramelDrizzle.jpg)

@@ -1,4 +1,4 @@
-# How To Make a Venti Iced Caramel Machiato
+# How To Make a Venti Iced Caramel Macchiato
 
 A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla syrup, and caramel drizzle, it offers sweet and creamy flavor as well as a strong coffee kick. 
 
@@ -19,9 +19,10 @@ A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla 
 
 ## Steps
 
-1. Preparation
+1. Preparaing the Cup:
 
    - Drizzle the Caramelsause around the Venti cup and let it slide down the cup. It should look something like the following picture.
+
 
    > ![first](CaramelDrizzle.jpg)
 
@@ -29,8 +30,7 @@ A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla 
 2. Adding Vanilla Syrup:
 
    - Now you will add 4 pumps of vanilla syrup to the cup.
-     
-     > If the vanilla syrup co ntainer does not have a pump, add around 2oz of vanilla syrup.
+     > If the vanilla syrup container does not have a pump, add around 2oz of vanilla syrup.
     
 3. Adding Milk:
 
@@ -49,5 +49,17 @@ A Caramel Macchiato is a layered coffee drink made with espresso, milk, vanilla 
 
    - Check the shots that you have made previously to ensure that they are a deep rich brown color with a thick golden crema on top. They should look like the following picture. 
   
-      > ![first](Shots.jpg) 
+      > ![first](Shots.jpg)
+
+7. Pour the Shots:
+
+   - Slowly pour the freshly brewed espresso shots directly into the center of the glass. This will create a layered effect with the espresso sitting on top of the milk.
+
+8. Drizzle the Caramel Sauce:
+
+   - Finish the drink by drizzling caramel sauce over the top of the drink in a crosshatch pattern for that classic Starbucks touch.
+
+## Enjoy Your Caramel Macchiato
+
+ > ![first](Final.jpg)
    
